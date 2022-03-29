@@ -776,7 +776,7 @@
 		-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background-color: #DD826F;
+		background-color: #DD826F ;
 		border-radius: 4px;
 		border: 0;
 		color: #DFDABC !important;
@@ -1183,3 +1183,24 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
+
+/* Loading Page*/
+
+/* Logo Header*/
+
+/*.logo{
+	position: fixed;
+	z-index: 99;
+	top: 0;
+	left: 0;
+	width: auto;
+	height: 100%;
+	display: flex;
+	text-align: center;
+	padding: px;
+}
+
+.logo > img{
+	max-width: 100%;
+	height: auto;
+}*/
